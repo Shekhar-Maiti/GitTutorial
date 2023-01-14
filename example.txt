@@ -1,0 +1,5 @@
+hello i am shekhar maiti
+ currently i am in collge and i am a 2nd year student
+and now i am learning  git hub from code with harry
+I am changing something in this example file to watch how git works
+changed by shekhar
